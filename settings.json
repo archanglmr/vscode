@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Jetbrains default theme",
+    "editor.minimap.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "explorer.sortOrder": "type",
+    "workbench.iconTheme": "webstorm-icons",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#ccc"
+    }
+}
