@@ -11,11 +11,22 @@
         "activityBar.border": "#aaa",
         "activityBarBadge.background": "#f33",
         "activityBar.foreground": "#666",
-        "statusBar.background": "#666"
+        "statusBar.background": "#666",
+        "panel.background": "#eee",
+        "panelTitle.activeForeground": "#000",
+        "panelTitle.inactiveForeground": "#999",
+        "panelTitle.activeBorder": "#666",
+        "foreground": "#444"
     },
     "workbench.fontAliasing": "antialiased",
     "terminal.integrated.scrollback": 10000,
     "editor.fontWeight": "600",
+    "editor.cursorBlinking": "smooth",
+    "problems.decorations.enabled": true,
+    "workbench.editor.openPositioning": "last",
+    "workbench.editor.tabSizing": "shrink",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
     "shortcuts.buttons": [
         "terminal , workbench.action.terminal.toggleTerminal , Toggle terminal panel",
         "bug , workbench.view.debug , View debug panel",
