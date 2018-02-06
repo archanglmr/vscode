@@ -5,6 +5,21 @@
     "explorer.sortOrder": "type",
     "workbench.iconTheme": "webstorm-icons",
     "workbench.colorCustomizations": {
-        "terminal.foreground": "#ccc"
-    }
+        "terminal.foreground": "#000",
+        "terminal.background": "#fff",
+        "activityBar.background": "#ddd",
+        "activityBar.border": "#aaa",
+        "activityBarBadge.background": "#f33",
+        "activityBar.foreground": "#666",
+        "statusBar.background": "#666"
+    },
+    "workbench.fontAliasing": "antialiased",
+    "terminal.integrated.scrollback": 10000,
+    "editor.fontWeight": "600",
+    "shortcuts.buttons": [
+        "terminal , workbench.action.terminal.toggleTerminal , Toggle terminal panel",
+        "bug , workbench.view.debug , View debug panel",
+        "tools , workbench.view.extensions , Manage Extenstions",
+        "search , workbench.view.search , Search"
+    ]
 }
