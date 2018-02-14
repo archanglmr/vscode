@@ -16,7 +16,8 @@
         "panelTitle.activeForeground": "#000",
         "panelTitle.inactiveForeground": "#999",
         "panelTitle.activeBorder": "#666",
-        "foreground": "#444"
+        "foreground": "#444",
+        "tab.inactiveBackground": "#ddd",
     },
     "workbench.fontAliasing": "antialiased",
     "terminal.integrated.scrollback": 10000,
@@ -32,5 +33,7 @@
         "bug , workbench.view.debug , View debug panel",
         "tools , workbench.view.extensions , Manage Extenstions",
         "search , workbench.view.search , Search"
-    ]
+    ],
+    "git.autofetch": true,
+    "workbench.statusBar.feedback.visible": false
 }
